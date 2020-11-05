@@ -1,6 +1,6 @@
 # squirrelbot-todo
 ## Wichtig
-* 
+* Asynchrone dierekte Speicherung von Databases
 * Abstimmungen
 * In privaten Channels die Namen der VC und Text-Channel individuell bestimmbar machen
 * Den User bestätigen lassen, dass (und welche) Daten von ihm erhoben werden.

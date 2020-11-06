@@ -1,5 +1,6 @@
 # squirrelbot-todo
 ## Wichtig
+* Check für DMs und try catch um jedes event -> weniger crashes
 * Asynchrone dierekte Speicherung von Databases
 * Abstimmungen
 * In privaten Channels die Namen der VC und Text-Channel individuell bestimmbar machen

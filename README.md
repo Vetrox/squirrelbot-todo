@@ -9,3 +9,4 @@
 ## Unwichtig
 * Interaktion mit Unverifizierten Usern nach einer Bestimmten Anzahl an Minuten.
 * Harte Verifikation mittels E-Mail Codes
+* Eigene Voicechannelnamen erlauben

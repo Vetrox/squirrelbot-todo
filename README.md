@@ -7,6 +7,7 @@
 * Permissions zur execution wenn möglich an Discord-permissions binden.
 
 ## Unwichtig
+* Auch Admins erlauben Personen in private Channel einzuladen
 * Interaktion mit Unverifizierten Usern nach einer Bestimmten Anzahl an Minuten.
 * Harte Verifikation mittels E-Mail Codes
 * Eigene Voicechannelnamen erlauben
